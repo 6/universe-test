@@ -24,6 +24,8 @@ brew install golang libjpeg-turbo
 
 ## usage
 
+Ensure that docker is running. Next, run the following in your terminal:
+
 ```
 cd path/to/repo
 . venv/bin/activate
